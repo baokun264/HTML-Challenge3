@@ -1,0 +1,16 @@
+@mixin d-flex-rows {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+@mixin d-flex-cols {
+  display: flex;
+  flex-direction: column;
+}
+@mixin font-btn {
+}
+@mixin title {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 42px;
+}

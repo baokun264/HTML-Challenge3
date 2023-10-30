@@ -1,0 +1,12 @@
+{
+  "name": "html_challenge_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch src/styles/main.scss:src/styles/main.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
